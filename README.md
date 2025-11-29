@@ -1,5 +1,5 @@
 <h1 align="center">We are TSPL Studios</h1>
-<h3 align="center">Imagine a Possibilities</h3>
+<h3 align="center">Imagine the Possibilities</h3>
 
 - 🔭 We're working on [TSPL Studios Universe](https://tspl-studios.de)
 
